@@ -6,5 +6,6 @@
 - Preparando-me para o mercado de tecnologia
 - Contato: profaviviane@yahoo.com.br
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&
-logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+(mailto:profaviviane@yahoo.com)
+
+https://img.shields.io/badge/:badgeContent
